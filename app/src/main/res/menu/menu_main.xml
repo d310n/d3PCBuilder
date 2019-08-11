@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.d3pcbuilder.MainActivity">
+
+
+    <item
+        android:id="@+id/mnuHome"
+        android:orderInCategory="100"
+        android:title="@string/home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnuBuild"
+        android:orderInCategory="100"
+        android:title="@string/build"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnuResources"
+        android:orderInCategory="100"
+        android:title="@string/resources"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mnuSettings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+
+</menu>
