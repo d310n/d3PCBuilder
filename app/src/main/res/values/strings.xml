@@ -6,4 +6,10 @@
     <string name="resources">Resources</string>
     <string name="title_activity_build">Build</string>
     <string name="title_activity_resource">Resources</string>
+    <string name="step_one">Step 1</string>
+    <string name="step_two">Step 2</string>
+    <string name="step_three">Step 3</string>
+    <string name="step_one_text">The first step for building a PC is knowing the basics of every PC hardware part that is needed. Please click the step 1 button for more!</string>
+    <string name="step_two_text">The second step for building a PC is knowing where all of the parts go to make sure that it runs when you turn it on. Please click the step 2 button for more!</string>
+    <string name="step_three_text">The final step for building a PC is starting up the system and learning set up the bios. Please click the step 3 button for more!</string>
 </resources>

@@ -1,6 +1,7 @@
 package com.example.d3pcbuilder;
 
 import android.content.Intent;
+import android.media.Image;
 import android.os.Bundle;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -13,6 +14,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         //Add a listener to the button to take you to the temp converter
-        Button btnBuild=(Button) findViewById(R.id.btnBuild);
+        ImageButton btnBuild=(ImageButton) findViewById(R.id.btnBuild);
         btnBuild.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -42,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         //Add a listener to the button to take you to the temp converter
-        Button btnResources =(Button) findViewById(R.id.btnResources);
+        ImageButton btnResources =(ImageButton) findViewById(R.id.btnResources);
         btnResources.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
