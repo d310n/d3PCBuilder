@@ -12,4 +12,10 @@
     <string name="step_one_text">The first step for building a PC is knowing the basics of every PC hardware part that is needed. Please click the step 1 button for more!</string>
     <string name="step_two_text">The second step for building a PC is knowing where all of the parts go to make sure that it runs when you turn it on. Please click the step 2 button for more!</string>
     <string name="step_three_text">The final step for building a PC is starting up the system and learning set up the bios. Please click the step 3 button for more!</string>
+    <string name="linkOne">Link 1</string>
+    <string name="linkTwo">Link 2</string>
+    <string name="linkThree">Link 3</string>
+    <string name="resourceOne">Here is the first link on how to build a gaming PC with the step by step process. Click on the Link 1 button below! </string>
+    <string name="resourceTwo">Here is a link that will take you to a website that recommends PC parts for you which you will need. Click the Link 2 button below!</string>
+    <string name="resourceThree">Here is a link that will take you to a PC parts lists for more affordable prices. Click on the Link 3 button below!</string>
 </resources>
